@@ -1,0 +1,14 @@
+h1 {
+    font-family: helvetica;
+    font-size: 100px;
+    color: rgb(11, 33, 231);
+    text-align: center;
+    background-color: rgb(8, 233, 38);
+    font-style: initial;
+    font-weight: 900;
+}
+
+body{ 
+    background-image: url("cyberbully-1024x682.jpg")
+    
+}
